@@ -1,0 +1,98 @@
+---
+title: "Masterclass: El uso de los datos y el flow del Análisis en Balonmano"
+format: 
+  revealjs:
+     theme: serif
+
+author: "Valery Zúñiga"
+---
+
+# Agenda
+
+::: {.incremental}
+
+
+- Repositorios
+- Flujo de datos en R
+  - Aplicación al balonmano
+- ¿Big Data?
+
+:::
+
+# Repositorios (usando git)
+
+Lugar de almacenamiento centralizado de una solución o proyecto.
+Puede ser público o privado.
+
+::: {.incremental}
+
+- Código (o texto)
+- Archivos
+- Historial y control de versiones 
+- Debate y administración de trabajo
+:::
+
+# Repositorios 
+
+## Repositorios
+
+![](imagenes/git1.png)
+
+## Repositorios (Código, texto y archivos)
+
+
+![](imagenes/git2.png)
+
+
+
+## Repositorios (Historial y control de versiones)
+
+![](imagenes/git3.png)
+
+
+## Repositorios (Debate y administración)
+
+![](imagenes/git4.png)
+
+# Flujo de datos en R
+::: {.incremental}
+
+- Recopilación de datos
+  - Almacenamiento de datos crudos
+  
+- Preparación de datos para análisis
+
+::: 
+
+
+# Flujo de datos en R
+
+- Paquete en R con funciones relacionadas al balonmano `handbaloner`.
+  - Demo de su uso en datos del Campeonato Mundial de Balonmano Masculino de 2023
+- Modelo básico de XG
+
+
+
+## Big Data 
+
+Big data se refiere al conjunto de datos, ya sea estructurados, no estructurados
+o semi-estructurados, para los cuáles es un reto manejar usando herramientas de 
+procesamiento y almacenamiento tradicional.
+
+
+## Big Data 
+
+<span style="color: rgba(0, 0, 0, 0.2);"> Big data se refiere al conjunto de datos, ya sea estructurados, no estructurados o semi-estructurados, para los cuáles es un reto manejar usando herramientas de procesamiento y almacenamiento </span> **tradicional**.
+
+
+## Referencias
+
+::: aside
+https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories
+https://www.spiceworks.com/tech/big-data/articles/what-is-big-data/#_001
+https://cloud.google.com/learn/what-is-big-data
+https://www.sas.com/es_ar/insights/big-data/what-is-big-data.html
+https://github.com/telaroz/handbaloner
+https://github.com/telaroz/pol_swe_2023_data
+
+:::
